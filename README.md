@@ -6,13 +6,13 @@ Progetto didattico in Python per catturare e visualizzare pacchetti di rete.
 
 ```text
 Sniffer_packets/
-â”œâ”€â”€ Linux_Fedora/
-â”‚   â”œâ”€â”€ sniffer_code.py
-â”‚   â”œâ”€â”€ sniffer_tui.py
-â”‚   â””â”€â”€ sniffer_ui_2.py
-â”œâ”€â”€ Windows/
-â”‚   â””â”€â”€ sniffer_ui_3.py
-â””â”€â”€ README.md
+├── Linux_Fedora/
+│   ├── sniffer_code.py
+│   ├── sniffer_tui.py
+│   └── sniffer_ui_2.py
+├── Windows/
+│   └── sniffer_ui_3.py
+└── README.md
 ```
 
 - `sniffer_code.py`: versione base da terminale per Fedora Linux.
